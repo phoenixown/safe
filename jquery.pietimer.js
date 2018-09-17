@@ -3,7 +3,7 @@
     init: function(options) {
       var state = {
         timer: null,
-        timerSeconds: 10,
+        timerSeconds: 15,
         callback: function() {},
         timerCurrent: 0,
         showPercentage: false,
